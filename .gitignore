@@ -1,0 +1,16 @@
+# Compiled binaries
+particle_in_a_box
+particle_in_a_box.exe
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Build artifacts
+build/
